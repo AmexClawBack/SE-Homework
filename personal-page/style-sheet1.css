@@ -1,0 +1,30 @@
+body {
+    background-color:#eae0c8;
+}
+
+.container-1{
+    display:flex;
+}
+.container-2{
+    display:flex;
+}
+.container-3{
+    display:flex;
+}
+
+.box-1{
+    flex:1;
+}
+
+.box-2{
+    flex:1;
+}
+.box-3{
+    flex:1;
+}
+.box-4{
+    flex:1;
+}
+.box-4{
+    flex:1;
+}
