@@ -1,0 +1,49 @@
+/* Header */
+
+
+
+.Header {
+    position: fixed;
+    padding: 20px;
+    text-align: center;
+    background: #4b4276;
+    color: #bdb8d7;
+    font-size: 30px;
+    border-bottom: 2px solid #000;
+    margin-left: 195px;
+    width: 100%;
+    opacity: 70%;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 20px;
+    height: 70px;
+    background-color: #4b4276;
+    width: 100%;
+    opacity: 70%;
+  }
+
+form{
+  padding: 20px ;
+  background-color: white;
+  font-style: italic;
+  border-style: solid;
+  font-weight: 900px;
+  margin:200px;
+  margin-left: 700px;
+  text-align: center;
+  box-sizing: border-box;
+  height: 300px;
+  width: 300px;
+  
+  
+}
+input[type=button] {
+  color: black;
+  background-color: rgb(0,200,0);
+  padding: 5px;
+  margin: 5px;
+}
+  

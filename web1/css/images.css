@@ -1,0 +1,45 @@
+
+.column{
+  display:flex;
+  flex-wrap: wrap;
+
+  
+}
+.container img{
+  display: flex;
+  width: 400px;
+  height: 400px;
+  margin-top: -20px;
+  margin-left: 200px;
+  padding: 90px;
+  
+  
+}
+    .contact-table {
+      display:flex;
+      margin-top: 100px;
+      margin-left: 500px;
+  }
+
+  .box {
+    float: left;
+    width: 150px;
+    height: 20px;
+    margin: 3em;
+    
+  }
+
+  .about {
+    position:relative;
+    padding: 120px;
+    text-align: center;
+    color: Black;
+    font-size: 15px;
+    margin-left: 100px;
+    width: 100%;
+    display:flexbox;
+    flex-wrap: wrap;
+    
+  }
+  
+ 
